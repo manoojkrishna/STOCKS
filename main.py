@@ -50,7 +50,7 @@ companies = {
 }
 
 # Initialize NewsAPI client
-newsapi = NewsApiClient(api_key='b94c11ba64a94ee7933f3101101675e1')  # Replace with your NewsAPI key
+newsapi = NewsApiClient(api_key='************************************')  # Replace with your NewsAPI key
 
 # Fetch stock data with caching
 @st.cache_data
