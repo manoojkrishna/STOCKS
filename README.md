@@ -1,4 +1,4 @@
-# 📈 Advanced Stock Market Prediction App (India)
+# 📈 Advanced Stock Market Prediction App
 
 This is a **Streamlit web application** for analyzing and forecasting stock prices of top Indian companies. It uses **Prophet** for time series forecasting, **Random Forest** for machine learning regression, **TextBlob** for sentiment analysis, and **NewsAPI** for fetching real-time news.
 
